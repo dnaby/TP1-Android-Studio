@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="inscription_apprenant">Student Registration</string>
+    <string name="prenom">First Name: </string>
+    <string name="input_prenom">Enter your first name</string>
+    <string name="nom">Last Name: </string>
+    <string name="input_nom">Enter your last name</string>
+    <string name="date_naissance">Date of Birth: </string>
+    <string name="input_date_naissance">Enter your date of birth</string>
+    <string name="formation">Formation</string>
+    <string name="filiere">Field of Study: </string>
+    <string name="input_filiere">Enter your field of study</string>
+    <string name="promotion">Promotion: </string>
+    <string name="input_promotion">Enter your promotion number</string>
+    <string name="annee">Year: </string>
+    <string name="input_annee">School Year</string>
+    <string name="encadrement">Coach</string>
+    <string name="sujet">Subject: </string>
+    <string name="input_sujet">Certification Subject</string>
+    <string name="nom_encadreur">Name: </string>
+    <string name="input_nom_encadreur">Supervisor\'s Name</string>
+    <string name="prenom_encadreur">First Name: </string>
+    <string name="input_prenom_encadreur">Supervisor\'s First Name</string>
+    <string name="enregistrer">Save</string>
+</resources>

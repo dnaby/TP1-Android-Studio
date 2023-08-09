@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_vertical_title">10dp</dimen>
+    <dimen name="form_elements">15dp</dimen>
+    <dimen name="form_label_size">14sp</dimen>
+    <dimen name="form_input_size">12sp</dimen>
+    <dimen name="subform_title_text_size">16sp</dimen>
+    <dimen name="margin_between_section">10sp</dimen>
+</resources>

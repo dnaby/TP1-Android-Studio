@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="inscription_apprenant">Inscription Apprenant</string>
+    <string name="prenom">Prénom: </string>
+    <string name="input_prenom">Entrer votre prénom</string>
+    <string name="nom">Nom: </string>
+    <string name="input_nom">Entrer votre nom</string>
+    <string name="date_naissance">Date Naissance: </string>
+    <string name="input_date_naissance">Entrer votre date naissance</string>
+    <string name="formation">Formation</string>
+    <string name="filiere">Filière: </string>
+    <string name="input_filiere">Nom de votre filière</string>
+    <string name="promotion">Promotion: </string>
+    <string name="input_promotion">Numero Promotion</string>
+    <string name="annee">Année: </string>
+    <string name="input_annee">Année Scolaire</string>
+    <string name="encadrement">Encadrement</string>
+    <string name="sujet">Sujet: </string>
+    <string name="input_sujet">Sujet Certification</string>
+    <string name="nom_encadreur">Nom: </string>
+    <string name="input_nom_encadreur">Nom Encadreur</string>
+    <string name="prenom_encadreur">Prénom: </string>
+    <string name="input_prenom_encadreur">Prénom Encadreur</string>
+    <string name="enregistrer">Enregistrer</string>
+</resources>
